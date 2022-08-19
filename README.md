@@ -1,6 +1,8 @@
 # Metabolomics_SummerSchool_2022
 This repository contains teaching material for the [2nd Internatonal Summer School on Non-Targeted Metabolomics](https://www.functional-metabolomics.com/metabosummerschool2022).<br>
 
+The test-data can be found in the MassIVE repository: [MSV000090156](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=06bd49807caa4390961fb827606a8696)
+
 Feature-based molecular networking of the test data: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=d207c3a831264d61810ad69ac09b14e9 </br>
 ## notebooks
 In this folder you will find Jupyter notebooks used for data analysis. You can launch interactive notebooks using Google Colab here: 
